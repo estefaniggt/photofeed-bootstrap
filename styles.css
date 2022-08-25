@@ -1,0 +1,9 @@
+.logo {
+    font-size: 30px;
+}
+
+nav{
+    padding-left: 300px;
+    padding-right: 300px;
+    border-bottom: 1px solid grey;
+}
